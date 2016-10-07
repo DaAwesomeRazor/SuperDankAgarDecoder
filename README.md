@@ -1,0 +1,2 @@
+# SuperDankAgarDecoder
+Decodes agar packets
